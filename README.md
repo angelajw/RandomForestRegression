@@ -1,2 +1,2 @@
 # RandomForestRegression
-Random Forest Regression in R
+Tutorial: Random Forest Regression in R
