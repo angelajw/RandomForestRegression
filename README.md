@@ -1,5 +1,4 @@
-# RandomForestRegression
-Tutorial: Random Forest Regression in R
+# Tutorial: Random Forest Regression in R
 
 By Ángela Jiang-Wang
 
